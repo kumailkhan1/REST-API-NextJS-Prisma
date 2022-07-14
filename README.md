@@ -22,6 +22,9 @@ That’s the scope of our project. This is what the user-facing application will
     
     no parameters
     
+    ![getSS](https://user-images.githubusercontent.com/31304633/179118972-6feff5dd-286a-4bf8-a12b-4520c709255a.jpg)
+
+    
 - `POST /trips` create a new trip
     - `user` *required* the number that identifies the user
     - `name` *required* the name of the trip
@@ -44,6 +47,9 @@ That’s the scope of our project. This is what the user-facing application will
     - `currency` *required* the currency of the expense
 - `GET /expenses/:id` get the details of an expense
     - `id` *required* the number that identifies the expense
+    
+    ![getSS](https://user-images.githubusercontent.com/31304633/179119051-8aeaea71-77a4-4b88-a325-ce31bdc57215.jpg)
+
 - `PUT /expenses/:id` modify the details of an expense
     - `id` *required* the number that identifies the expense
     - `trip` (optional) the number that identifies the trip
