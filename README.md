@@ -1,4 +1,6 @@
-A REST API with Next.JS without front-end.
+Simple REST API using Next.JS, PostgreSQL (ORM: Prisma) without front-end and complext auth.
+
+Database hosted: https://railway.app/
 
 Following requirements are used to build this API:
 
