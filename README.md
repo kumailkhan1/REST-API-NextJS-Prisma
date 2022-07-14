@@ -2,6 +2,9 @@ Simple REST API using Next.JS, PostgreSQL (ORM: Prisma) without front-end and co
 
 Database hosted: https://railway.app/
 
+![getSS](https://user-images.githubusercontent.com/31304633/179119643-5c5ab881-1b25-454a-83e3-6ee89026cc40.jpg)
+
+
 Following requirements are used to build this API:
 
 1. The first step is to define the requirements. From those requirements, we’ll have a better idea of what we’ll need to build as part of our API.
